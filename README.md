@@ -7,8 +7,6 @@ Essa aplicaçãoo visava a construção de um mini jogo somente usando o JS, HTM
 
 [Deploy](https://game-mata-mosquito-89g2f9aj0-lucasfpds.vercel.app/)<br>
 
-
 <h2>📷 Preview</h2>
-<h3>Desktop:</h3>
-<img src="./cinnamon-20210408-12.gif">
 
+<img src="./cinnamon-20210408-12.gif">
