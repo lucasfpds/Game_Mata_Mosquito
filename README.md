@@ -10,3 +10,13 @@ Aplicação web de um mini jogo usando o JS, HTML, DOM e o CSS com um código be
 <h2>📷 Preview</h2>
 
 <img src="./cinnamon-20210408-12.gif">
+
+<br>
+
+```bash
+#Fazer o fork do repositório para sua conta
+
+#Executar git clone do seu fork no terminal para clonar o repositório
+
+#Para executar o projeto acesse o arquivo index.html
+```
